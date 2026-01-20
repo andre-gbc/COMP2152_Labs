@@ -1,4 +1,4 @@
-# Week 02 Lab
+# Week 02 Lab 
 # RPS Game
 
 import random
@@ -25,3 +25,5 @@ else:
         print("You win!")
     else:
         print("Computer wins!")
+
+# End of Lab 02
